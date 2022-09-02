@@ -1,10 +1,8 @@
-from brain_games import game_starter
+from brain_games.game_starter import welcome_user, start_game
 
 
 def main():
-    name = game_starter.welcome_user()
-    game = 'brain_prime.initial_game_data()'
-    game_starter.start_game(game, name)
+    start_game('brain_prime.initial_game_data()', welcome_user())
 
 
 if __name__ == '__main__':

@@ -1,0 +1,1 @@
+[![Actions Status](https://github.com/NNbaur/Brain-games/actions/workflows/brain-games-actions.yml/badge.svg)](https://github.com/NNbaur/Brain-games/actions)
